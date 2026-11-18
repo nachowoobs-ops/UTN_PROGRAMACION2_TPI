@@ -63,6 +63,6 @@ La dependencia va en un solo sentido: **consola → servicios → entidades**.
 
 ## Entregables
 
-* Informe PDF: `Informe_TPI_FoodStore.pdf` (en la raíz del repositorio).
-* Video demostración: _<completar con el enlace con permisos públicos de visualización>_
-* Repositorio: _<completar con el enlace de GitHub>_
+* Informe PDF: https://drive.google.com/file/d/1EiFkM5iPr28-ux_xJIg3e7kTEyVrxy9D/view?usp=sharing
+* Video demostración:https://youtu.be/3jJvqGP59QA
+
