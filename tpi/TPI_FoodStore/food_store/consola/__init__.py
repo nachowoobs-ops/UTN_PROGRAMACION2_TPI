@@ -1,0 +1,8 @@
+"""Paquete de consola: menús y lectura validada. No contiene reglas de negocio."""
+from consola.fabrica_menu import crear_menu
+from consola.inicio_sesion import iniciar_sesion
+from consola.menu import Menu
+from consola.menu_administrador import MenuAdministrador
+from consola.menu_cliente import MenuCliente
+
+__all__ = ["Menu", "MenuAdministrador", "MenuCliente", "crear_menu", "iniciar_sesion"]
